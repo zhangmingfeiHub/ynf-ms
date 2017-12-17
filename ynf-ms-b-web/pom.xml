@@ -13,4 +13,20 @@
 	<packaging>war</packaging>
 	<name>YNF MS B WEB</name>
 	
+	<dependencies>
+		<!-- test jar -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+		</dependency>
+		<dependency>
+		    <groupId>org.hamcrest</groupId>
+		    <artifactId>hamcrest-core</artifactId>
+		</dependency>
+		<dependency>
+		    <groupId>org.mockito</groupId>
+		    <artifactId>mockito-core</artifactId>
+		</dependency>
+	</dependencies>
+	
 </project>
