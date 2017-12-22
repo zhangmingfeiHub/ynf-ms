@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.mfzhang.mayi.ynf</groupId>
-		<artifactId>mayi-ynf-ms</artifactId>
+		<artifactId>ynf-ms</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	
